@@ -1,0 +1,3 @@
+distinctipy~=1.2.2
+pyvis~=0.3.0
+python-sat~=0.1.7.dev9
